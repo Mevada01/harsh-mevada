@@ -92,3 +92,7 @@ function portfolioItemDetails(portfolioItem) {
     document.querySelector(".pp-body").innerHTML =
         portfolioItem.querySelector(".portfolio-item-details").innerHTML;
 }
+
+function loadweb(){
+    alert("This website is under progress");
+}
